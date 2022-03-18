@@ -1,6 +1,6 @@
 # Password Generator
 
-Helping users to stop using 'password' or 'abc123' as their password, through automating the password creation process with randomised letters, numbers, uppercase and lowercase characters.
+Help users to stop using 'password' or 'abc123' as their password. Automate the password generation step with letters, numbers, uppercase and lowercase characters.
 
 ## To run locally:
 
@@ -12,4 +12,3 @@ Helping users to stop using 'password' or 'abc123' as their password, through au
 <p style="text-align: center">
   <img src="https://imgur.com/a/wuphWUo">
 </p>
-# password-generator
