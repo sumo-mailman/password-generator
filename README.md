@@ -10,5 +10,5 @@ Help users to stop using 'password' or 'abc123' as their password. Automate the 
 ## Demo
 
 <p style="text-align: center">
-  <img src="https://imgur.com/a/wuphWUo">
+  <img src="https://i.imgur.com/wuphWUo">
 </p>
